@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @xbonsaix, a curious Homo-sapien, who can be way too curious at times.
+- 👀 I’m interested in creative coding, generative arts, machine learning NLP and data science.
+- 🔬 I'm also a research intern, a contemporary artist, a Climate Reality Leader (or environment enthusiast), a sustainability junkie, a freelance graphic designer, project coordinator, and a dnacer
+- ⚙️ I speak HTML, CSS, Java, AngularJS for Ionic, Python, English, a bit of German, and smaller amount of Chinese, and Khmer.
+- 🌱 I’m currently learning Python for NLP and Data Science, looking forward to learn P5.js, PHP.
+- 💞️ I’m looking to collaborate on creative coding projects, Khmer NLP and ASR, and Data Science for social cause. However, I'm open to any project you can imagine, from programming, to art, to design, to social initiative, to events.
+- 📫 Find me on Linkedin: https://www.linkedin.com/in/chansoksambath-c-995b6ab8/
+- 📫 or Instagram: https://www.instagram.com/sambath.png/
+- 📫 or Behance: https://www.behance.net/sambathchea
